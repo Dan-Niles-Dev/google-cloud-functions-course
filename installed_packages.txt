@@ -1,0 +1,13 @@
+blinker==1.8.2
+click==8.1.7
+cloudevents==1.11.0
+colorama==0.4.6
+deprecation==2.1.0
+Flask==3.0.3
+functions-framework==3.8.1
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==3.0.2
+packaging==24.1
+watchdog==5.0.3
+Werkzeug==3.0.6
